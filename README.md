@@ -1,21 +1,42 @@
-# Prisma
+# Materialize de A à Z
 
-Ce repository contient des ressources théoriques pour apprendre Prisma. Il est destiné à fournir des explications détaillées et des exemples pour comprendre les concepts fondamentaux de Prisma dans le cadre de la formation "Apprendre Prisma de A à Z" sur [laminutedecode.com](https://laminutedecode.com).
+Ce référentiel contient des ressources et des exemples pour une formation exhaustive sur Materialize, un framework CSS basé sur Material Design pour le développement web front-end.
 
-## Contenu du Repository
+## Contenu
 
-Ce repository est organisé en différentes sections pour couvrir les aspects essentiels de Prisma :
+### Introduction à Materialize
+- Qu'est-ce que Materialize ?
+- Avantages de l'utilisation de Materialize par rapport au CSS traditionnel.
+- Installation et configuration de Materialize.
 
-- **Introduction à Prisma** : Une vue d'ensemble de Prisma et de son rôle dans le développement d'applications modernes.
-- **Modélisation de données avec Prisma Schema** : Comment définir et structurer les modèles de données à l'aide du fichier `schema.prisma`.
-- **Interactions avec la base de données** : Les différentes méthodes pour interagir avec la base de données à travers Prisma.
-- **Migrations avec Prisma** : Comment gérer les changements de schéma et les migrations de base de données.
-- **Relations entre les modèles** : Comment définir et gérer les relations entre les entités de données avec Prisma.
+### Mise en route avec Materialize
+- Utilisation des classes Materialize pour la mise en page (Grid System).
+- Utilisation des composants Materialize (navbar, cards, modals, etc.).
+- Intégration des styles Materialize dans un projet existant.
 
-## Utilisation
+### Composants de Materialize
+- Navbar et Navigation
+- Cards
+- Forms et Inputs
+- Modals et Toasts
 
-Utilisez ce repository pour explorer et comprendre les concepts théoriques de Prisma. Chaque section est accompagnée d'exemples et de références pour approfondir votre compréhension.
+### Personnalisation et Extensions
+- Personnalisation des couleurs, typographies et autres variables Materialize.
+- Extensions Materialize et plugins tiers pour enrichir les fonctionnalités.
+
+### Techniques avancées
+- Utilisation des helpers Materialize (utilities, classes utilitaires)
+- Responsive design avec Materialize
+- Accessibilité et bonnes pratiques
+
+### Projets pratiques
+- Divers projets illustrant l'utilisation des composants et des techniques Materialize dans des applications réelles.
+
+## Ressources Supplémentaires
+- Liens vers des articles, des tutoriels et des outils utiles sur Materialize.
+
+## Comment Contribuer
+Ce référentiel est destiné à des fins éducatives et de démonstration. Les contributions directes ne sont pas acceptées, mais vous êtes encouragés à cloner, explorer et utiliser ces exemples comme base pour vos propres applications Materialize.
 
 ## Licence
-
-Ce projet est la propriété de LaMinuteDeCode. Il est strictement interdit de copier ou de vendre ces ressources. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence [MIT](LICENSE). 
